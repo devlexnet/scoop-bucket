@@ -1,19 +1,12 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
-        "32bit": {
-            "url": "https://github.com/devlexnet/ignit/releases/download/v1.0.1/ignit_Windows_i386.zip",
-            "bin": [
-                "ignit.exe"
-            ],
-            "hash": "f7710048da8ac11190a6e76fa9623b994b8301a85f4b438d128516e0fbbee470"
-        },
         "64bit": {
-            "url": "https://github.com/devlexnet/ignit/releases/download/v1.0.1/ignit_Windows_x86_64.zip",
+            "url": "https://github.com/devlexnet/ignit/releases/download/v1.0.2/ignit_1.0.2_windows_amd64.zip",
             "bin": [
                 "ignit.exe"
             ],
-            "hash": "d8a83a527e45b91a717a3c5cccb8f612aed194350254ec4193694d24d48bcb0e"
+            "hash": "86ee2c5a3d4e3e2a575c24010dff1659eca2a09ea7a5e1cf78a821c6a29e9c6e"
         }
     },
     "homepage": "https://github.com/devlexnet/ignit",
