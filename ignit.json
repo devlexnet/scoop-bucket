@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/devlexnet/ignit/releases/download/v1.0.0/ignit_Windows_i386.zip",
+            "bin": [
+                "ignit.exe"
+            ],
+            "hash": "c23a0664e289dd232bb76a692289cabad3183d926c5cb9f0524d8a782137a6af"
+        },
+        "64bit": {
+            "url": "https://github.com/devlexnet/ignit/releases/download/v1.0.0/ignit_Windows_x86_64.zip",
+            "bin": [
+                "ignit.exe"
+            ],
+            "hash": "d1d74c1765de37745d8c69f7ec955f8d6aa784c2fbb3f3dd335b80bb78c93bac"
+        }
+    },
+    "homepage": "https://github.com/devlexnet/ignit",
+    "license": "MIT",
+    "description": "Smart .gitignore generator CLI powered by official GitHub templates"
+}
